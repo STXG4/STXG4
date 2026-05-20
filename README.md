@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO_AQUI?logo=github&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/SEU_USUARIO_AQUI?logo=github&style=for-the-badge&color=bb9af7&labelColor=1a1b26" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/STXG4?logo=github&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/STXG4?logo=github&style=for-the-badge&color=bb9af7&labelColor=1a1b26" alt="Stars"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@ Sou um desenvolvedor focado em criar aplicações robustas, interfaces modernas 
 Se quiser trocar uma ideia sobre IA local, desenvolvimento de apps ou UI/UX, me encontre por aqui:
 
 *   🌐 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-*   📧 **E-mail:** seu.email@provedor.com
+*   📧 **E-mail:** .
 </details>
 
 ---
@@ -59,12 +59,12 @@ Se quiser trocar uma ideia sobre IA local, desenvolvimento de apps ou UI/UX, me 
 ## 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens Mais Usadas" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=STXG4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STXG4&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens Mais Usadas" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight" alt="Streak Stats" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=STXG4&theme=tokyonight" alt="Streak Stats" width="100%"/>
 </p>
 
 ---
