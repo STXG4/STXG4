@@ -58,19 +58,17 @@ Se quiser trocar uma ideia sobre IA local, desenvolvimento de apps ou UI/UX, me 
 
 ## 📊 Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=STXG4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STXG4&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens Mais Usadas" height="180"/>
+## 📊 Minhas Estatísticas
+
+<p align="center">
+  <!-- Estatísticas Gerais usando o espelho alternativo estável -->
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas Gerais" height="180px"/>
+  
+  <!-- Linguagens mais usadas usando o espelho alternativo -->
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Linguagens mais usadas" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=STXG4&theme=tokyonight" alt="Streak Stats" width="100%"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/夾/夾/main/assets/rainbow_line.gif" width="100%"/>
-  <br/>
-  💡 <i>"Turning coffee and local tokens into clean code."</i>
+  <!-- O Streak do herokuapp costuma ser o mais resistente a quedas da API -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true" alt="Sequência de Commits" width="100%"/>
 </p>
