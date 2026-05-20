@@ -1,8 +1,8 @@
-<h2 align="left">ola meu nome e</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ5MmxrejRyYmNxaG1qYzM3Ymhob2pvMHQyMXFvamFzZXE3eDJwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hC2mA1FWFs2OowO60p/giphy.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Vzd2tsY3N1am9lYngya2RrZHRtaXlvdzRhbDZoZHp1NnRoeGN3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BFw8UdyN2eTahirZbx/giphy.gif"  />
 
 ###
 
