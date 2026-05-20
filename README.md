@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋 <img src="https://raw.githubusercontent.com/夾/夾/main/assets/rainbow_line.gif" width="100%"/>
+# Olá, eu sou o STXG4! 👋 <img src="https://raw.githubusercontent.com/夾/夾/main/assets/rainbow_line.gif" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Developer;Tech+Enthusiast;Local+AI+Integrator;Minimalist+UI%2FUX+Lover" alt="Typing SVG" />
